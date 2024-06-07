@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Type-annotated function concat which takes
-two strings str1 and str2 as arguments"""
+'''Task 1's module.
+'''
 
 
 def concat(str1: str, str2: str) -> str:
-    """Concatenates two strings"""
+    '''Concatenates two strings.
+    '''
     return str1 + str2

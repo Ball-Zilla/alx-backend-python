@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-"""Function to return a float as a string"""
+'''Task 3's module.
+'''
 
 
 def to_str(n: float) -> str:
-    """Return a float number as a string."""
+    '''Converts a floating-point number to a string.
+    '''
     return str(n)
